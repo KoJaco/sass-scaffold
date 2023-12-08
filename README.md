@@ -1,4 +1,5 @@
-🚀 Tech Stack
+### 🚀 Tech Stack
+
 ✅ Bootstrapping: create-t3-app + FastAPI-template.
 
 -   https://create.t3.gg/
